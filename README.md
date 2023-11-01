@@ -1,1 +1,1 @@
-# pokemon-rulesets
+# Pokémon Challenge Rulesets
