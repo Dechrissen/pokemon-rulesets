@@ -75,4 +75,7 @@ What do I do if I run into a Pokémon in the wild?
 
 ### Randomizer settings string
 *generated with Universal Pokémon Randomizer ZX v4.6.0*
+
+```
 321AQgEAQIBAAQABwAEAAKjBhsEFAEAFABACQABmgAAAAAABRi4MgQyAQAICTIGBAAyMQIYEEZpcmUgUmVkIChVKSAxLjFITGpX48M4ig==
+```
