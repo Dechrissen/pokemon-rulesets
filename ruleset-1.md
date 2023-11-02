@@ -7,21 +7,23 @@ Number | Rule | Explanation
 3 | Party size reduced to 4 | You may not have more than 4 main party Pokémon at a time. In order to replace one, it either needs to die, or you can elect to sacrifice it by depositing it in a Box. This means you cannot catch a non-HM slave Pokémon if you already have 4 main party members.
 4 | One Pokémon per area | You may only catch or kill (not both) one wild Pokémon per area. ([What counts as an area?](#areas))
 5 | No wild XP gain | You may not train on wild Pokémon; only trainers.
-6 | Permadeath | If a Pokémon faints, it's considered dead. It must be deposited in a Box and can't be used.
-7 | Blackout is game over | If all of your main party Pokémon faint, you lose.
-~~8~~ | ~~No turning back after entering a dungeon~~ | ~~You can only enter a dungeon once unless the game requires another entry.~~ (What counts as a dungeon?)
+6 | No rematches | You may not re-fight any trainers via the VS Seeker or others means.
+7 | Permadeath | If a Pokémon faints, it's considered dead. It must be deposited in a Box and can't be used.
+8 | Blackout is game over | If all of your main party Pokémon faint, you lose.
+-- | ~~No turning back after entering a dungeon~~ | ~~You can only enter a dungeon once unless the game requires another entry.~~ (What counts as a dungeon?)
 9 | No turning back after entering a Gym | Once you enter a gym, you cannot leave until you defeat all its trainers and the Leader.
-~~10~~ | ~~Set battle style~~ | ~~The battle style must be set to 'Set' in the options.~~
-11 | No shops | No purchasing in shops, except for Pokéballs, repels, and Pokémon. ([What counts as a shop?](#shops))
-12 | No 580+ BST Pokémon | You may not use a Pokémon as a main party Pokémon if its base stat total is 580 or higher. If a party member would evolve into one that fits this criterion, you must cancel the evolution.
-13 | No in-battle use of HMs | You may not use HMs in battle.
-14 | No using banned items | [Banned item list](#banned-item-list)
-15 | No trading | Trades, including in-game trades, are banned.
-16 | No growing berries | You may not grow berries for harvesting. If a pre-existing tree has berries on it, you may harvest from that tree one time.
-17 | No daycare | You may not utilize the daycare.
-18 | No using Pokémon with banned abilities | [Banned ability list](#banned-ability-list)
-19 | HM slaves | You may have any number of HM slaves in your party. They may not be used in battle. If one gets sent out via a move like Whirlwind, you must immediately switch back to any main party Pokémon. HM slaves may not become main party Pokémon.
-20 | No dungeon heal stations | You may not use beds or healing stations in dungeons, e.g. in Silph Co.
+-- | ~~Set battle style~~ | ~~The battle style must be set to 'Set' in the options.~~
+10 | No shops | No purchasing in shops, except for Pokéballs, repels, and Pokémon. ([What counts as a shop?](#shops))
+11 | No 580+ BST Pokémon | You may not use a Pokémon as a main party Pokémon if its base stat total is 580 or higher. If a party member would evolve into one that fits this criterion, you must cancel the evolution.
+12 | No in-battle use of HMs | You may not use HMs in battle.
+13 | No using banned items | [Banned item list](#banned-item-list)
+14 | No trading | Trades, including in-game trades, are banned.
+15 | No growing berries | You may not grow berries for harvesting. If a pre-existing tree has berries on it, you may harvest from that tree one time.
+16 | No daycare | You may not utilize the daycare.
+17 | No using Pokémon with banned abilities | [Banned ability list](#banned-ability-list)
+18 | HM slaves | You may have any number of HM slaves in your party. They may not be used in battle. If one gets sent out via a move like Whirlwind, you must immediately switch back to any main party Pokémon. HM slaves may not become main party Pokémon.
+19 | No dungeon heal stations | You may not use beds or healing stations in dungeons, e.g. in Silph Co.
+20 | No stealing items | You may not steal items from wild Pokémon via moves like Thief.
 
 ### Banned item list
 - Lucky Egg
