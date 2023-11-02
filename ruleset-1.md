@@ -10,9 +10,7 @@ Number | Rule | Explanation
 6 | No rematches | You may not re-fight any trainers via the VS Seeker or others means.
 7 | Permadeath | If a Pokémon faints, it's considered dead. It must be deposited in a Box and can't be used.
 8 | Black out = game over | If all of your main party Pokémon faint, you lose.
--- | ~~No turning back after entering a dungeon~~ | ~~You can only enter a dungeon once unless the game requires another entry.~~ (What counts as a dungeon?)
 9 | No turning back after entering a Gym | Once you enter a gym, you cannot leave until you defeat all its trainers and the Leader.
--- | ~~Set battle style~~ | ~~The battle style must be set to 'Set' in the options.~~
 10 | No shops | No purchasing in shops, except for Pokéballs, repels, and Pokémon. ([What counts as a shop?](#shops))
 11 | No 580+ BST Pokémon | You may not use a Pokémon as a main party Pokémon if its base stat total is 580 or higher. If a party member would evolve into one that fits this criterion, you must cancel the evolution.
 12 | No in-battle use of HMs | You may not use HMs in battle.
@@ -77,4 +75,4 @@ What do I do if I run into a Pokémon in the wild?
 ```
 321AQgEAQIBAAQABwAEAAKjBhsEFAEAFABACQABmgAAAAAABRi4MgQyAQAICTIGBAAyMQIYEEZpcmUgUmVkIChVKSAxLjFITGpX48M4ig==
 ```
-*generated with Universal Pokémon Randomizer ZX v4.6.0*
+*Settings string generated with Universal Pokémon Randomizer ZX v4.6.0*
