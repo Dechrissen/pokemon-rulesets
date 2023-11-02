@@ -9,7 +9,7 @@ Number | Rule | Explanation
 5 | No wild XP gain | You may not train on wild Pokémon; only trainers.
 6 | No rematches | You may not re-fight any trainers via the VS Seeker or others means.
 7 | Permadeath | If a Pokémon faints, it's considered dead. It must be deposited in a Box and can't be used.
-8 | Blackout is game over | If all of your main party Pokémon faint, you lose.
+8 | Black out = game over | If all of your main party Pokémon faint, you lose.
 -- | ~~No turning back after entering a dungeon~~ | ~~You can only enter a dungeon once unless the game requires another entry.~~ (What counts as a dungeon?)
 9 | No turning back after entering a Gym | Once you enter a gym, you cannot leave until you defeat all its trainers and the Leader.
 -- | ~~Set battle style~~ | ~~The battle style must be set to 'Set' in the options.~~
@@ -45,19 +45,23 @@ Number | Rule | Explanation
 - routes
 - caves (the whole cave is the area, not individual floors)
 - buildings, like Pokémon Mansion (the whole building is the area, not individual floors)
+- Safari Zone (the whole thing is the area)
 
-### Questions that might come up
-1. Can I purchase Pokémon, like from the Mt. Moon Pokémon Center guy or the Game Corner?
+### Questions you might have
+Can I use Pokémon Centers?
 > Yes.
 
-2. Can I use items anywhere, in battle and in the field?
+Can I purchase Pokémon, like from the Mt. Moon Pokémon Center guy or the Game Corner?
+> Yes. And yes, you can purchase coins at the Game Corner.
+
+Can I use items anywhere (in battle and in the field)?
 > Yes.
 
-3. Can I use Pokémon Centers?
-> Yes.
+What do I do if I run into a Pokémon in the wild?
+> If you don't want to catch it, just try to run. If you can't, you can kill it. Just don't exploit this for XP gain.
 
 ### Randomizer settings
-- 'Full HM Compatibility' to ensure any Pokémon may be used as an HM slave
+- 'Full HM compatibility' to ensure any Pokémon may be used as an HM slave
 - Randomize starters
 - Randomize wild Pokémon (no legendaries)
 - Randomize trainer Pokémon (no legendaries)
@@ -65,8 +69,10 @@ Number | Rule | Explanation
 - Randomize field items
 - Randomize helds items for wild Pokémon
 - Randomize PC Potion
-- Give trainers 'Better Movesets'
+- Force fully evolved trainer Pokémon at level 35
+- Give trainers 'better movesets'
 - Give Boss trainers 'sensible' held items on their highest level Pokémon
 
 ### Randomizer settings string
+*generated with Universal Pokémon Randomizer ZX v4.6.0*
 321AQgEAQIBAAQABwAEAAKjBhsEFAEAFABACQABmgAAAAAABRi4MgQyAQAICTIGBAAyMQIYEEZpcmUgUmVkIChVKSAxLjFITGpX48M4ig==
