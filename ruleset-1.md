@@ -1,7 +1,8 @@
-## Dechrissen's Ruleset 1
+# Dechrissen's Ruleset 1
 
-Jump to: [Philosophy behind this ruleset](#background-and-philosophy) | [Randomizer settings](#randomizer-settings) | [Clarifying points](#questions-you-might-have)
+Jump to: [Rules](#rules) | [Philosophy behind this ruleset](#background-and-philosophy) | [Randomizer settings](#randomizer-settings) | [Clarifying points](#clarifying-points)
 
+## Rules
 Number | Rule | Explanation
 --- | --- | ---
 1 | Randomize all Pokémon | This includes starter, wild, trainer, gift, and purchased Pokémon.
@@ -13,7 +14,7 @@ Number | Rule | Explanation
 7 | Permadeath | If a Pokémon faints, it's considered dead. It must be deposited in a Box and can't be used.
 8 | Black out = game over | If all of your main party Pokémon faint, you lose.
 9 | No turning back after entering a Gym | Once you enter a gym, you cannot leave until you defeat all its trainers and the Leader.
-10 | No shops | No purchasing in shops, except for Pokéballs, repels, and Pokémon. ([What counts as a shop?](#shops))
+10 | No shops (with exceptions) | No purchasing in shops, except for Pokéballs, repels, evolutionary stones, and Pokémon. ([What counts as a shop?](#shops))
 11 | No 580+ BST Pokémon | You may not use a Pokémon as a main party Pokémon if its base stat total is 580 or higher. If a party member would evolve into one that fits this criterion, you must cancel the evolution.
 12 | No in-battle use of HMs | You may not use HMs in battle.
 13 | No using banned items | [Banned item list](#banned-item-list)
@@ -25,7 +26,7 @@ Number | Rule | Explanation
 19 | No dungeon heal stations | You may not use beds or healing stations in dungeons, e.g. in Silph Co.
 20 | No stealing items | You may not steal items from wild Pokémon via moves like Thief.
 
-### Background and philosophy
+## Background and philosophy
 I have been developing challenge rulesets like this for a while without actually trying them in-game. I've always wanted a more difficult version of the game I love (the Gen 1-4 games, mostly). I don't like a lot of decisions made in other rulesets, like "Nuzlocke" and "Ironmon". So I decided to organize this particular ruleset into a nice markdown document, so I can share it with others.
 
 The philosophy of this ruleset is **difficulty increase constrained by the realism of the Pokémon world**, i.e. it's meant to be a more challenging version of the vanilla game, without changing things that violate the "laws" of the Pokémon universe (as I see them). It's also not meant to be impossibly difficult.
@@ -35,6 +36,10 @@ For example, I do not believe randomization (of encountered Pokémon) is necessa
 Randomizing the species of Pokémon you encounter in the wild and from trainers can be a nice change. It lets you see and battle against Pokémon you traditionally wouldn't get much exposure to in a vanilla playthrough. But I think changing the you see in certain environments in the region is enough; you don't *need* to change properties inherent to them.
 
 Essentially, I think certain parameters should be constant. If you're trying to develop a more challenging version of a game you love, you wouldn't change the geography, or the story, for example. That would change it into something different. I think the same logic applies to changing properties of individual Pokémon, to the effect that they're no longer the Pokémon you have come to know.
+
+## Clarifying points
+
+This ruleset was developed with Gen 3 in mind. Though, it is meant to be general, and can likely easily be adapted for other Gens.
 
 ### Banned item list
 - Lucky Egg
@@ -62,17 +67,23 @@ Essentially, I think certain parameters should be constant. If you're trying to 
 - Safari Zone (the whole thing is the area)
 
 ### Questions you might have
-Can I use Pokémon Centers?
+Q: Can I use Pokémon Centers?
 > Yes.
 
-Can I purchase Pokémon, like from the Mt. Moon Pokémon Center guy or the Game Corner?
+Q: Can I purchase Pokémon, like from the Mt. Moon Pokémon Center guy or the Game Corner?
 > Yes. And yes, you can purchase coins at the Game Corner.
 
-Can I use items anywhere (in battle and in the field)?
+Q: Can I use items anywhere (in battle and in the field)?
 > Yes.
 
-What do I do if I run into a Pokémon in the wild?
+Q: What do I do if I run into a Pokémon in the wild?
 > If you don't want to catch it, just try to run. If you can't, you can kill it. Just don't exploit this for XP gain.
+
+## Randomizer
+
+The settings parameters I chose can be achieved with this software: [Universal Pokémon Randomizer ZX](https://github.com/Ajarmar/universal-pokemon-randomizer-zx)
+Navigate to 'Releases' on the right-hand side of the repository and download the latest release.
+The prerequisite for running this software is having [Java installed](https://www.java.com/en/download/).
 
 ### Randomizer settings
 - 'Full HM compatibility' to ensure any Pokémon may be used as an HM slave
