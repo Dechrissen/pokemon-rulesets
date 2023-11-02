@@ -1,9 +1,11 @@
 ## Dechrissen's Ruleset 1
 
+Jump to: [Philosophy behind this ruleset](#background-and-philosophy) | [Randomizer settings](#randomizer-settings) | [Clarifying points](#questions-you-might-have)
+
 Number | Rule | Explanation
 --- | --- | ---
 1 | Randomize all Pokémon | This includes starter, wild, trainer, gift, and purchased Pokémon.
-2 | Randomize all field items | All items in the field will be random, and all TMs in the field will be replaced with a different TM.
+2 | Randomize all field items | All items in the field are random, and all TMs in the field are replaced with a different TM.
 3 | Party size reduced to 4 | You may not have more than 4 main party Pokémon at a time. In order to replace one, it either needs to die, or you can elect to sacrifice it by depositing it in a Box. This means you cannot catch a non-HM slave Pokémon if you already have 4 main party members.
 4 | One Pokémon per area | You may only catch or kill (not both) one wild Pokémon per area. ([What counts as an area?](#areas))
 5 | No wild XP gain | You may not train on wild Pokémon; only trainers.
@@ -23,12 +25,12 @@ Number | Rule | Explanation
 19 | No dungeon heal stations | You may not use beds or healing stations in dungeons, e.g. in Silph Co.
 20 | No stealing items | You may not steal items from wild Pokémon via moves like Thief.
 
-### Background & philosophy
-I have been developing challenge rulesets like this for a while without actually trying them in-game. I've lways wanted a more difficult version of the game I love (the Gen 1-4 games, mostly). I don't like a lot of decisions made in other rulesets, like "Nuzlocke" and "Ironmon". So I decided to organize this particular ruleset into a nice markdown document, so I can share it with others.
+### Background and philosophy
+I have been developing challenge rulesets like this for a while without actually trying them in-game. I've always wanted a more difficult version of the game I love (the Gen 1-4 games, mostly). I don't like a lot of decisions made in other rulesets, like "Nuzlocke" and "Ironmon". So I decided to organize this particular ruleset into a nice markdown document, so I can share it with others.
 
 The philosophy of this ruleset is **difficulty increase constrained by the realism of the Pokémon world**, i.e. it's meant to be a more challenging version of the vanilla game, without changing things that violate the "laws" of the Pokémon universe (as I see them). It's also not meant to be impossibly difficult.
 
-For example, I do not believe randomization (of encountered Pokémon) is necessarily a violation of these laws rather than a simple habitat swap; but **to randomize stats, abilities, and movesets inherent to different species of Pokémon is a violation of some natural phenomena in the Pokémon universe** (the ones which make Pokémon "actual" Pokémon, and not some fan-made abomination). 
+For example, I do not believe randomization (of encountered Pokémon) is necessarily a violation of these laws rather than a simple habitat swap; but **to randomize stats, abilities, and movesets inherent to different species of Pokémon is a violation of some natural phenomena in the Pokémon universe** (the ones which make Pokémon "actual" Pokémon, and not some fan-made abomination).
 
 Randomizing the species of Pokémon you encounter in the wild and from trainers can be a nice change. It lets you see and battle against Pokémon you traditionally wouldn't get much exposure to in a vanilla playthrough. But I think changing the you see in certain environments in the region is enough; you don't *need* to change properties inherent to them.
 
