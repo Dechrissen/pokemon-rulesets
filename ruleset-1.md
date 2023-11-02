@@ -10,7 +10,7 @@ Number | Rule | Explanation
 6 | Permadeath | If a Pokémon faints, it's considered dead. It must be deposited in a Box and can't be used.
 7 | Blackout is game over | If all of your main party Pokémon faint, you lose.
 8 | No turning back after entering a dungeon | You can only enter a dungeon once unless the game requires another entry. (What counts as a dungeon?)
-9 | No turning back after entering a Gym | Once you enter a gym, you cannot leave until you defeat all its trainers. (What counts as a Gym?)
+9 | No turning back after entering a Gym | Once you enter a gym, you cannot leave until you defeat all its trainers and the Leader. (What counts as a Gym?)
 10 | Set battle style | The battle style must be set to 'Set' in the options.
 11 | No shops | No purchasing in shops, except for Pokéballs, repels, and Pokémon. (What counts as a shop?)
 12 | No 580+ BST Pokémon | You may not use a Pokémon as a main party Pokémon if its base stat total is 580 or higher. If a party member would evolve into one that fits this criterion, you must cancel the evolution.
@@ -21,3 +21,7 @@ Number | Rule | Explanation
 17 | No daycare | You may not utilize the daycare.
 18 | No using Pokémon with banned abilities | Banned ability list
 19 | HM slaves | You may have any number of HM slaves in your party. They may not be used in battle. If one gets sent out via a move like Whirlwind, you must immediately switch back to any main party Pokémon.
+
+
+### Randomizer settings string
+321AAgEAQIBAAQABwAEAAKjBgMEFAEAFABACQABkAAAAAAABRC4MgQyAQAICTIGBAAyAAIAEEZpcmUgUmVkIChVKSAxLjGAZMeI48M4ig==
