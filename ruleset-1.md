@@ -8,10 +8,10 @@ Number | Rule | Explanation
 1 | Randomize all Pokémon | This includes starter, wild, trainer, gift, and purchased Pokémon.
 2 | Randomize all field items | All items in the field are random, and all TMs in the field are replaced with a different TM.
 3 | Party cap reduced to 4 | You may not have more than 4 main party Pokémon at a time.
-4 | No catching Pokémon unless you have less than the cap | You may not catch a non-HM slave / main party Pokémon unless you have less than the maximum allowed. If you have the maximum already, in order to replace one, it either needs to die, or you can elect to sacrifice it by depositing it in a Box.
+4 | No catching Pokémon unless you have less than the cap | You may not catch a non-HM slave / main party Pokémon unless you have less than the maximum allowed. If you have the maximum already: in order to replace one, it either needs to die, or you can elect to sacrifice it by depositing it in a Box.
 5 | No wild XP gain | You may not train on wild Pokémon; only trainers.
 6 | No rematches | You may not re-fight any trainers via the VS Seeker or others means.
-7 | Permadeath | If a Pokémon faints, it's considered dead. It must be deposited in a Box and can't be used.
+7 | Permadeath | If a Pokémon faints, it's considered dead. It must be deposited in a Box and can't be withdrawn.
 8 | Black out = game over | If all of your main party Pokémon faint, you lose.
 9 | No turning back after entering a Gym | Once you enter a gym, you cannot leave until you defeat all its trainers and the Leader.
 10 | No shops (with exceptions) | No purchasing in shops, except for Pokéballs, repels, evolutionary stones, and Pokémon. ([What counts as a shop?](#shops))
@@ -35,11 +35,11 @@ For example, I do not believe randomization (of encountered Pokémon) is necessa
 
 Randomizing the species of Pokémon you encounter in the wild and from trainers can be a nice change. It lets you see and battle against Pokémon you traditionally wouldn't get much exposure to in a vanilla playthrough. But I think changing the you see in certain environments in the region is enough; you don't *need* to change properties inherent to them.
 
-Essentially, I think certain parameters should be constant. If you're trying to develop a more challenging version of a game you love, you wouldn't change the geography, or the story, for example. That would change it into something different. I think the same logic applies to changing properties of individual Pokémon, to the effect that they're no longer the Pokémon you have come to know.
+Essentially, I think certain parameters should be constant. If you're trying to develop a more challenging version of a game you love, you wouldn't change the geography or the story, for example. That would change it into something different. I think the same logic applies to changing properties of individual Pokémon, to the effect that they're no longer the Pokémon you have come to know.
 
 So, beyond the randomization aspect, the rest of the decisions I've made are meant to make the game harder in a way that would make sense. Thus, rules like permadeath made it into my ruleset. It makes sense; instead of fainting, Pokémon go away forever, which is more of a threat. So you should be careful in your battles. Reducing the max party size is meant to make it harder for you to achieve type coverage, so you should curate your party based on that constraint. The decision to ban Pokémon above BST 580 effectively eliminates the possibility of using legendaries, which makes sense, when you think about it in terms of the "realism" I mentioned earlier. Why would you have access to such powerful Pokémon in the wild, and why would the enemy trainers? 
 
-When it comes to enemy trainers, I also tried to make choices that would make them generally harder, without making them overpowered. The ruleset gives them the "better movesets" option in the randomizer, which doesn't give them access to moves they couldn't normally get, but instead gives them good moves they wouldn't have in a vanilla playthrough but realistically *could* have (like TM moves).
+When it comes to enemy trainers, I tried to make choices that would make them generally harder, without making them overpowered. The ruleset gives them the "better movesets" option in the randomizer, which doesn't give them access to moves they couldn't normally get, but instead gives them good moves they wouldn't typically have in a vanilla playthrough but realistically *could* have (like TM moves and egg moves). Boss trainers, such as gym leaders and team bosses, will have a held item on their strongest Pokémon. (Wouldn't you have at least one item on your Pokémon?)
 
 ## Clarifying points
 
