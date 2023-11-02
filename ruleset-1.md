@@ -74,8 +74,7 @@ What do I do if I run into a Pokémon in the wild?
 - Give Boss trainers 'sensible' held items on their highest level Pokémon
 
 ### Randomizer settings string
-*generated with Universal Pokémon Randomizer ZX v4.6.0*
-
 ```
 321AQgEAQIBAAQABwAEAAKjBhsEFAEAFABACQABmgAAAAAABRi4MgQyAQAICTIGBAAyMQIYEEZpcmUgUmVkIChVKSAxLjFITGpX48M4ig==
 ```
+*generated with Universal Pokémon Randomizer ZX v4.6.0*
