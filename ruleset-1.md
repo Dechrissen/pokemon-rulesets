@@ -5,14 +5,14 @@ Number | Rule | Explanation
 1 | Randomize all Pokémon | This includes starter, wild, trainer, gift, and purchased Pokémon.
 2 | Randomize all field items | All items in the field will be random, and all TMs in the field will be replaced with a different TM.
 3 | Party size reduced to 4 | You may not have more than 4 main party Pokémon at a time. In order to replace one, it either needs to die, or you can elect to sacrifice it by depositing it in a Box. This means you cannot catch a non-HM slave Pokémon if you already have 4 main party members.
-4 | One Pokémon per area | You may only catch or kill (not both) one wild Pokémon per area. ([What counts as an area?](#what-counts-as-an-area?))
+4 | One Pokémon per area | You may only catch or kill (not both) one wild Pokémon per area. ([What counts as an area?](#areas))
 5 | No wild XP gain | You may not train on wild Pokémon; only trainers.
 6 | Permadeath | If a Pokémon faints, it's considered dead. It must be deposited in a Box and can't be used.
 7 | Blackout is game over | If all of your main party Pokémon faint, you lose.
 ~~8~~ | ~~No turning back after entering a dungeon~~ | ~~You can only enter a dungeon once unless the game requires another entry.~~ (What counts as a dungeon?)
-9 | No turning back after entering a Gym | Once you enter a gym, you cannot leave until you defeat all its trainers and the Leader. ([What counts as a Gym?](#what-counts-as-a-gym?))
+9 | No turning back after entering a Gym | Once you enter a gym, you cannot leave until you defeat all its trainers and the Leader.
 ~~10~~ | ~~Set battle style~~ | ~~The battle style must be set to 'Set' in the options.~~
-11 | No shops | No purchasing in shops, except for Pokéballs, repels, and Pokémon. ([What counts as a shop?](#what-counts-as-a-shop?))
+11 | No shops | No purchasing in shops, except for Pokéballs, repels, and Pokémon. ([What counts as a shop?](#shops))
 12 | No 580+ BST Pokémon | You may not use a Pokémon as a main party Pokémon if its base stat total is 580 or higher. If a party member would evolve into one that fits this criterion, you must cancel the evolution.
 13 | No in-battle use of HMs | You may not use HMs in battle.
 14 | No using banned items | [Banned item list](#banned-item-list)
@@ -31,7 +31,7 @@ Number | Rule | Explanation
 ### Banned ability list
 - Pickup
 
-### What counts as a shop?
+### Shops
 - PokéMarts
 - Game Corner
 - Department stores
@@ -39,27 +39,32 @@ Number | Rule | Explanation
 - Lava Cookie woman in Hoenn
 - etc.
 
-### What counts as an area?
+### Areas
 - routes
-- caves (the whole cave, not individual floors)
-- buildings, like Pokémon Mansion
-
-### What counts as a gym?
-- gyms
-- Karate Dojo, like in Saffron City
+- caves (the whole cave is the area, not individual floors)
+- buildings, like Pokémon Mansion (the whole building is the area, not individual floors)
 
 ### Questions that might come up
-
-Can I purchase Pokémon, like from the Mt. Moon Pokémon Center guy or the Game Corner?
+1. Can I purchase Pokémon, like from the Mt. Moon Pokémon Center guy or the Game Corner?
 > Yes.
 
-Can I use items anywhere, in battle and in the field?
+2. Can I use items anywhere, in battle and in the field?
 > Yes.
 
-Can I use Pokémon Centers?
+3. Can I use Pokémon Centers?
 > Yes.
+
+### Randomizer settings
+- 'Full HM Compatibility' to ensure any Pokémon may be used as an HM slave
+- Randomize starters
+- Randomize wild Pokémon (no legendaries)
+- Randomize trainer Pokémon (no legendaries)
+- Randomize static Pokémon
+- Randomize field items
+- Randomize helds items for wild Pokémon
+- Randomize PC Potion
+- Give trainers 'Better Movesets'
+- Give Boss trainers 'sensible' held items on their highest level Pokémon
 
 ### Randomizer settings string
-
 321AQgEAQIBAAQABwAEAAKjBhsEFAEAFABACQABmgAAAAAABRi4MgQyAQAICTIGBAAyMQIYEEZpcmUgUmVkIChVKSAxLjFITGpX48M4ig==
-
