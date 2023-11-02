@@ -4,7 +4,7 @@ Number | Rule | Explanation
 --- | --- | ---
 1 | Randomize all Pokémon | This includes starter, wild, trainer, gift, and purchased Pokémon.
 2 | Randomize all field items | All items in the field will be random, and all TMs in the field will be replaced with a different TM.
-3 | Party size reduced to 4 | You may not have more than 4 main party Pokémon at a time.
+3 | Party size reduced to 4 | You may not have more than 4 main party Pokémon at a time. In order to replace one, it either needs to die, or you can elect to sacrifice it by depositing it in a Box.
 4 | One Pokémon per area | You may only catch or kill (not both) one wild Pokémon per area. (What counts as an area?)
 5 | No wild XP gain | You may not train on wild Pokémon; only trainers.
 6 | Permadeath | If a Pokémon faints, it's considered dead. It must be deposited in a Box and can't be used.
