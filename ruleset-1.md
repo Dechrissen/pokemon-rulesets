@@ -23,10 +23,24 @@ Number | Rule | Explanation
 19 | No dungeon heal stations | You may not use beds or healing stations in dungeons, e.g. in Silph Co.
 20 | No stealing items | You may not steal items from wild Pokémon via moves like Thief.
 
+### Background & philosophy
+I have been developing challenge rulesets like this for a while without actually trying them in-game. I've lways wanted a more difficult version of the game I love (the Gen 1-4 games, mostly). I don't like a lot of decisions made in other rulesets, like "Nuzlocke" and "Ironmon". So I decided to organize this particular ruleset into a nice markdown document, so I can share it with others.
+
+The philosophy of this ruleset is **difficulty increase constrained by the realism of the Pokémon world**, i.e. it's meant to be a more challenging version of the vanilla game, without changing things that violate the "laws" of the Pokémon universe (as I see them). It's also not meant to be impossibly difficult.
+
+For example, I do not believe randomization (of encountered Pokémon) is necessarily a violation of these laws rather than a simple habitat swap; but **to randomize stats, abilities, and movesets inherent to different species of Pokémon is a violation of some natural phenomena in the Pokémon universe** (the ones which make Pokémon "actual" Pokémon, and not some fan-made abomination). 
+
+Randomizing the species of Pokémon you encounter in the wild and from trainers can be a nice change. It lets you see and battle against Pokémon you traditionally wouldn't get much exposure to in a vanilla playthrough. But I think changing the you see in certain environments in the region is enough; you don't *need* to change properties inherent to them.
+
+Essentially, I think certain parameters should be constant. If you're trying to develop a more challenging version of a game you love, you wouldn't change the geography, or the story, for example. That would change it into something different. I think the same logic applies to changing properties of individual Pokémon, to the effect that they're no longer the Pokémon you have come to know.
+
 ### Banned item list
 - Lucky Egg
 - Exp. Share
 - Sacred Ash
+- Blue Flute
+- Yellow Flute
+- Red Flute
 
 ### Banned ability list
 - Pickup
