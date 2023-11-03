@@ -1,6 +1,6 @@
 # Dechrissen's Ruleset 1
 
-Jump to: [Rules](#rules) | [Philosophy behind this ruleset](#background-and-philosophy) | [Clarifying points](#clarifying-points) | [Randomizer settings](#randomizer-settings)
+Jump to: [Rules](#rules) | [Philosophy behind this ruleset](#background-and-philosophy) | [Clarifying points](#clarifying-points) | [Randomizer settings](#randomizer-settings) | [Resources](#resources)
 
 ## Rules
 Number | Rule | Explanation
@@ -77,6 +77,9 @@ Q: Can I use items anywhere (in battle and in the field)?
 Q: What do I do if I run into a Pokémon in the wild?
 > If you don't want to catch it, just try to run. If you can't, you can kill it. Just don't exploit this for XP gain.
 
+Q: Can I catch more than one Pokémon per area?
+> Yes, just as long as you don't violate Rule 4 (not catching Pokémon unless you have less than the cap). 
+
 ## Randomizer
 
 The settings parameters I chose can be achieved with this software: [Universal Pokémon Randomizer ZX](https://github.com/Ajarmar/universal-pokemon-randomizer-zx)  
@@ -104,3 +107,8 @@ Note: The prerequisite for running this software is having [Java installed](http
 321AQgEAQIBAAQABwAEAAKoBhsEFAEAFABACQABmgAAAAAABRi4xgTGAQAICTIGBAAyMQIIEEZpcmUgUmVkIChVKSAxLjHpFjYl48M4ig==
 ```
 *Settings string generated with Universal Pokémon Randomizer ZX v4.6.0*
+
+## Resources
+- [Pokémon BST (base stat total) reference pages](https://pokemondb.net/pokedex/stats/gen1)
+- [Universal Pokémon Randomizer ZX](https://github.com/Ajarmar/universal-pokemon-randomizer-zx)
+- [BizHawk](https://github.com/TASEmulators/BizHawk) (the emulator I recommend)
