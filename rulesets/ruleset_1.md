@@ -98,13 +98,13 @@ Note: The prerequisite for running this software is having [Java installed](http
 - Randomize helds items for wild Pokémon
 - Randomize PC Potion
 - Force fully evolved trainer Pokémon at level 40
-- 120% level modifier on wild and trainer Pokémon
+- 110% level modifier on wild and trainer Pokémon
 - Give trainers 'better movesets'
 - Give Boss trainers 'sensible' held items on their highest level Pokémon
 
 ### Randomizer settings string
 ```
-321AQgEAQIBAAQABwAEAAKoBhsEFAEAFABACQABmgAAAAAABRi4xgTGAQAICTIGBAAyMQIIEEZpcmUgUmVkIChVKSAxLjHpFjYl48M4ig==
+321AQgEAQIBAAQABwAEAAKoBhsEFAEAFABACQABmgAAAAAABRi4vAS8AQAICTIGBAAyMQIYEEZpcmUgUmVkIChVKSAxLjGHqDG948M4ig==
 ```
 *Settings string generated with Universal Pokémon Randomizer ZX v4.6.0*
 
