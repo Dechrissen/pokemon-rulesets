@@ -75,6 +75,7 @@ Nugget Bridge | Initiate bridge Rival battle | Defeat final bridge trainer |
 S.S. Anne | Enter ship | Help the captain |
 Pokémon Tower | Enter tower | Obtain Poké Flute | Be sure not to use the healing zone
 Rocket Hideout | Enter hideout entrance | Defeat Giovanni |
+Pokémon Mansion | Enter mansion | Obtain Secret Key |
 Silph Co. | Enter building | Defeat Giovanni | Be sure not to use the beds to heal
 
 ### Questions you might have
