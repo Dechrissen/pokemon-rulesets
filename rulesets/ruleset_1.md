@@ -13,18 +13,19 @@ Number | Rule | Explanation
 6 | No rematches | You may not re-fight any trainers via the VS Seeker or others means.
 7 | Permadeath | If a Pokémon faints, it's considered dead. It must be deposited in a Box and can't be withdrawn.
 8 | Black out = game over | If all of your main party Pokémon faint, you lose.
-9 | No turning back after entering a Gym | Once you enter a gym, you cannot leave until you defeat all its trainers and the Leader.
-10 | No shops (with exceptions) | No purchasing in shops, except for Pokéballs, repels, evolutionary stones, and Pokémon. ([What counts as a shop?](#shops))
-11 | No 580+ BST Pokémon | You may not use a Pokémon as a main party Pokémon if its base stat total is 580 or higher. If a party member would evolve into one that fits this criterion, you must cancel the evolution.
-12 | No in-battle use of HMs | You may not use HMs in battle.
-13 | No using banned items | [Banned item list](#banned-item-list)
-14 | No trading | Trades, including in-game trades, are banned.
-15 | No growing berries | You may not grow berries for harvesting. If a pre-existing tree has berries on it, you may harvest from that tree one time.
-16 | No daycare | You may not utilize the daycare.
-17 | No using Pokémon with banned abilities | [Banned ability list](#banned-ability-list)
-18 | HM slaves | You may have any number of HM slaves in your party. They may not be used in battle. If one gets sent out via a move like Whirlwind, you must immediately switch back to any main party Pokémon. HM slaves may not become main party Pokémon.
-19 | No dungeon heal stations | You may not use beds or healing stations in dungeons, e.g. in Silph Co.
-20 | No stealing items | You may not steal items from wild Pokémon via moves like Thief.
+9 | One-try fully complete Gyms | Once you enter a gym, you cannot leave until you defeat all its trainers and the Leader.
+10 | One-try important challenges | Once you begin an [important challenge](#important-challenges-and-their-win-conditions), you may not leave the building or otherwise interrupt the challenge to heal/gather items/etc. until you complete its goal.
+11 | No shops (with exceptions) | No purchasing in shops, except for Pokéballs, repels, evolutionary stones, and Pokémon. ([What counts as a shop?](#shops))
+12 | No 580+ BST Pokémon | You may not use a Pokémon as a main party Pokémon if its base stat total is 580 or higher. If a party member would evolve into one that fits this criterion, you must cancel the evolution.
+13 | No in-battle use of HMs | You may not use HMs in battle.
+14 | No using banned items | [Banned item list](#banned-item-list)
+15 | No trading | Trades, including in-game trades, are banned.
+16 | No growing berries | You may not grow berries for harvesting. If a pre-existing tree has berries on it, you may harvest from that tree one time.
+17 | No daycare | You may not utilize the daycare.
+18 | No using Pokémon with banned abilities | [Banned ability list](#banned-ability-list)
+19 | HM slaves | You may have any number of HM slaves in your party. They may not be used in battle. If one gets sent out via a move like Whirlwind, you must immediately switch back to any main party Pokémon. HM slaves may not become main party Pokémon.
+20 | No heal stations during important challenges | You may not use beds or healing stations during important challenges, e.g. in Silph Co.
+21 | No stealing items | You may not steal items from wild Pokémon via moves like Thief.
 
 ## Background and philosophy
 I have been developing challenge rulesets like this for a while without actually trying them in-game. I've always wanted a more difficult version of the game I love (the Gen 1-4 games, mostly). I don't like a lot of decisions made in other rulesets, like "Nuzlocke" and "Ironmon". So I decided to organize this particular ruleset into a nice markdown document, so I can share it with others.
@@ -45,6 +46,9 @@ When it comes to enemy trainers, I tried to make choices that would make them ge
 
 This ruleset was developed with Gen 3 in mind. Though, it is meant to be general, and can likely easily be adapted for other Gens.
 
+### Win conditions
+Complete all the Gyms and the important locations, and then beat the Champion. Post-game stuff doesn't apply.
+
 ### Banned item list
 - Lucky Egg
 - Exp. Share
@@ -63,6 +67,16 @@ This ruleset was developed with Gen 3 in mind. Though, it is meant to be general
 - Vending machines
 - Lava Cookie woman in Hoenn
 - etc.
+
+### Important challenges and their win conditions
+#### Red / Blue / Yellow / FireRed / LeafGreen
+Challenge name | Start condition | Win condition | Notes
+--- | --- | --- | ---
+Nugget Bridge | Initiate bridge Rival battle | Defeat final bridge trainer |
+S.S. Anne | Enter ship | Help the captain |
+Pokémon Tower | Enter tower | Obtain Poké Flute | Be sure not to use the healing zone
+Rocket Hideout | Enter hideout entrance | Defeat Giovanni |
+Silph Co. | Enter building | Defeat Giovanni | Be sure not to use the beds to heal
 
 ### Questions you might have
 Q: Can I use Pokémon Centers?
